@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [React](React.md)
 * [Icons](icons.md)
-* Google Maps
+* [Google Maps](google_maps.md)
 
