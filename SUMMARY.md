@@ -6,5 +6,5 @@
 * [Google Maps](google_maps.md)
 * [HTML & CSS](html_&_css.md)
 * [Infrastructure](infrastructure.md)
-* Misc
+* [Misc](misc.md)
 
