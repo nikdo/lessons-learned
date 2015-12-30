@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [React](reactmd.md)
+* [React](react.md)
 * [Icons](icons.md)
 * [Google Maps](google_maps.md)
 
