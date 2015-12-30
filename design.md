@@ -1,4 +1,4 @@
-# Icons
+# Design
 
 ## Optimal Touch Icon Size
 
