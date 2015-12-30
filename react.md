@@ -4,7 +4,7 @@
 
 [Redux and Relay are exclusive](https://github.com/rackt/redux/issues/1036)
 
-Redux is currently the winner from all Flux implementations.
+Redux is the winner from all Flux implementations.
 - most popular, mentioned as winner in many discussions
 - works with react-router - same contributors
 - isomorphic in mind
@@ -13,7 +13,7 @@ Redux is currently the winner from all Flux implementations.
 
 Animated elements has to have **key attribute** even if it is animated switch between two elements. Otherwise React rewrites existing element to new one. It works without key attribute if the element is removed in the second state.
 
-ReactCSSTransitionGroup must be **outside** the condition causing animation. If it is inside it is mounted alongside the content and it doesn't work.
+*ReactCSSTransitionGroup* must be **outside** the condition causing animation. If it is inside it is mounted alongside the content and it doesn't work.
 
 *ReactCSSTransitionGroup* waits for an animation to complete before removing DOM node. This means, it’s **whole conent has to be animated** otherwise React throws errors and fails to remove DOM node.
 
