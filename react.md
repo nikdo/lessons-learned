@@ -2,8 +2,6 @@
 
 ## Redux and Relay
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
-
 [Redux and Relay are exclusive](https://github.com/rackt/redux/issues/1036)
 
 Redux is currently the winner from all Flux implementations.
