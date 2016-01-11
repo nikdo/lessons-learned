@@ -1,5 +1,10 @@
 # Redux
 
+Redux is the winner from all Flux implementations.
+- most popular, mentioned as winner in many discussions
+- works with react-router - same contributors
+- isomorphic in mind
+
 State is an object tree in a single store. Too change state, action has to be dispatched. Action describes *what happend*. Reducer handles action, but it doesn't mutate state, it returns new state.
 
 Reducer can be splitted into multiple reducers. They handle different actions and changing different parts of the object tree.
@@ -24,6 +29,8 @@ Proper way of building Redux and React app:
 **Redux middleware** provides a third-party extension point between dispatching an action and the moment it reaches the reducer. It can be used by libraries like *redux-thunk* to perform async call to API and dispatch multiple actions in the process. Or it can be used for routing.
 
 See [Redux Basics tutorial](http://rackt.org/redux/docs/basics/index.html) to dig deeper.
+
+Redux and Relay are [exclusive](https://github.com/rackt/redux/issues/1036).
 
 
 ## Redux-simple-router
