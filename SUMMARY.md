@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* JavaScript
 * [React](react.md)
    * [React-router](react-router.md)
    * [Redux](redux.md)
@@ -9,5 +10,4 @@
 * [HTML & CSS](html_&_css.md)
 * [Infrastructure](infrastructure.md)
 * [Misc](misc.md)
-* JavaScript
 
