@@ -9,4 +9,5 @@
 * [HTML & CSS](html_&_css.md)
 * [Infrastructure](infrastructure.md)
 * [Misc](misc.md)
+* JavaScript
 
