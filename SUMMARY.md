@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [HTML & CSS](html_&_css.md)
-* JavaScript
+* [JavaScript](javascript.md)
 * [React](react.md)
    * [React-router](react-router.md)
    * [Redux](redux.md)
