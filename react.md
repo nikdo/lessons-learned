@@ -1,5 +1,7 @@
 # React
 
+[Whole React component lifecycle in a code comment]( https://github.com/facebook/react/blob/master/src/renderers/shared/reconciler/ReactCompositeComponent.js#L49-L74)
+
 ## Animations
 
 Animated elements has to have **key attribute** even if it is animated switch between two elements. Otherwise React rewrites existing element to new one. It works without key attribute if the element is removed in the second state.
