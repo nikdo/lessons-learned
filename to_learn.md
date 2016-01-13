@@ -13,6 +13,7 @@
 ## React
 
 - [Higher-order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
+- [React + ES6](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
 
 
 ## Redux
