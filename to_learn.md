@@ -10,6 +10,7 @@
 - [how to avoid .this problem](https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f#.v0obaa503)
 
 ## Redux
+- [Dan Abramov's React Europe Talk](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [Reduce boilerplate](http://redux.js.org/docs/recipes/ReducingBoilerplate.html)
 - [Write Redux tests](http://redux.js.org/docs/recipes/WritingTests.html)
 - [Redux videos](https://egghead.io/series/getting-started-with-redux) by Dan Abramov
