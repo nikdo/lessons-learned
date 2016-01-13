@@ -9,7 +9,14 @@
 	- var vs. const vs. let
 - [how to avoid .this problem](https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f#.v0obaa503)
 
+
+## React
+
+- [Higher-order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
+
+
 ## Redux
+
 - [Dan Abramov's React Europe Talk](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [Reduce boilerplate](http://redux.js.org/docs/recipes/ReducingBoilerplate.html)
 - [Write Redux tests](http://redux.js.org/docs/recipes/WritingTests.html)
