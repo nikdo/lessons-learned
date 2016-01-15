@@ -1,7 +1,7 @@
 # To Learn
 
 ## JavaScript
-- difference between == and ===
+- [difference between == and ===](http://stackoverflow.com/questions/359494/does-it-matter-which-equals-operator-vs-i-use-in-javascript-comparisons)
 - ES6 basics from [GitHub tutorial](https://github.com/lukehoban/es6features#readme)
 	- import end exports
 	- promises
