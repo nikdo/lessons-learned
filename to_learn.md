@@ -1,5 +1,8 @@
 # To Learn
 
+## Business
+- lean hyphotheses
+
 ## JavaScript
 - [difference between == and ===](http://stackoverflow.com/questions/359494/does-it-matter-which-equals-operator-vs-i-use-in-javascript-comparisons)
 - ES6 basics from [GitHub tutorial](https://github.com/lukehoban/es6features#readme)
@@ -8,6 +11,7 @@
 	- template strings
 	- var vs. const vs. let
 - [how to avoid .this problem](https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f#.v0obaa503)
+- functional composition
 
 
 ## React
