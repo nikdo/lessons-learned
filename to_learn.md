@@ -15,13 +15,11 @@
 
 
 ## React
-
 - [Higher-order Components](http://jamesknelson.com/structuring-react-applications-higher-order-components/)
 - [React + ES6](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
 
 
 ## Redux
-
 - [Dan Abramov's React Europe Talk](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [Reduce boilerplate](http://redux.js.org/docs/recipes/ReducingBoilerplate.html)
 - [Write Redux tests](http://redux.js.org/docs/recipes/WritingTests.html)
@@ -30,3 +28,8 @@
 
 ## CSS & HTML
 - try [FlexBox Froggy](http://flexboxfroggy.com)
+ 
+
+## Design
+- Doodles digitalization, so that it look clean & professional
+- Hack Design lessons (email newsletter)
