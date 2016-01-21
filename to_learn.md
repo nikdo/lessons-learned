@@ -33,3 +33,7 @@
 ## Design
 - Doodles digitalization, so that it look clean & professional
 - Hack Design lessons (email newsletter)
+
+
+## Misc
+- [free courses](http://www.seduo.cz) suggested by Pavel Ovesný (Punkové podnikání)
