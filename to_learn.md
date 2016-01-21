@@ -35,5 +35,8 @@
 - Hack Design lessons (email newsletter)
 
 
+## Copywriting
+- e-book *Piště jako copywriter* by Ottocopy (Education/Copywriting folder)
+
 ## Misc
 - [free courses](http://www.seduo.cz) suggested by Pavel Ovesný (Punkové podnikání)
