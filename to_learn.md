@@ -31,6 +31,7 @@
  
 
 ## Design
+- [Affinity Tutorials]( https://affinity.serif.com/en-us/tutorials/)
 - Doodles digitalization, so that it look clean & professional
 - Hack Design lessons (email newsletter)
 
