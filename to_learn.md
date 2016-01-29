@@ -12,6 +12,7 @@
 	- var vs. const vs. let
 - [how to avoid .this problem](https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f#.v0obaa503)
 - functional composition
+- Immutable.js
 
 
 ## React
