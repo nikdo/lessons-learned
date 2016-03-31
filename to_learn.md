@@ -2,6 +2,7 @@
 
 ## Business
 - lean hyphotheses
+- 
 
 ## JavaScript
 - [difference between == and ===](http://stackoverflow.com/questions/359494/does-it-matter-which-equals-operator-vs-i-use-in-javascript-comparisons)
@@ -12,7 +13,7 @@
 	- var vs. const vs. let
 - [how to avoid .this problem](https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f#.v0obaa503)
 - functional composition
-- Immutable.js
+- [Introuction to Immutable.js](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
 
 
 ## React
