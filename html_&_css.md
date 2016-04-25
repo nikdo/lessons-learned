@@ -26,9 +26,9 @@ Set up **maximal and minimal content width** to avoid design breakdown for super
 
 ## CSS Best Practices
 
-Object Oriented CSS is good for large websites. Websites where large pack of developers with different skill-level are working on it. It's not wise to use it for small to medium projects.
+**Object Oriented CSS** is good for large websites. Websites where large pack of developers with different skill-level are working on it. It's not wise to use it for small to medium projects. [It's OK to use IDs and descendant selectors instead.](http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/)
 
-[It's OK to use IDs and descendant selectors instead.](http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/)
+[Remove the forward slash](http://learn.shayhowe.com/html-css/writing-your-best-code/) at the end of self-closing elements
 
 ## Stylus
 
