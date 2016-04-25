@@ -31,6 +31,11 @@
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## CSS & HTML
+- [AirBnb CSS Style Guide](https://github.com/airbnb/css)
+- [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+- - [Content & Display Patterns](http://danielmall.com/articles/content-display-patterns/) (via J. Zeldman)
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) (via J. Zeldman)
+- [Mastering CSS Priciples by Smashing Magazine](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 - try [FlexBox Froggy](http://flexboxfroggy.com)
 
 
