@@ -15,12 +15,14 @@ Pick [minor breakpoints if necessary](https://developers.google.com/web/fundamen
 
 In my opinion, it would be better to store breakpoints in variables and group code by design elements, not by device.
 
-Set up maximum and minimum content width to avoid design breakdown for super-large and super-small devices:
+Set up **maximal and minimal content width** to avoid design breakdown for super-large and super-small devices:
 ```
 #container
 	width 70%
 	max-width 80rem
 ```
+
+[Shrink lines and move items up](https://www.youtube.com/watch?v=sOuLv-PRbt4) for wide but short devices like landscape tablet.
 
 ## CSS Best Practices
 
