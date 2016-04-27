@@ -51,7 +51,7 @@
 - Doodles digitalization, so that it look clean & professional
 - Hack Design lessons (email newsletter)
 - [Drawing vector characters](http://www.huffingtonpost.com/entry/husbands-illustrations-for-wife-capture-love-at-its-simplest_us_56d74b29e4b0871f60eda9a1?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
-
+- [Material Design](https://www.google.com/design/spec/material-design/introduction.html#)
 
 ## Copywriting
 - e-book *Piště jako copywriter* by Ottocopy (Education/Copywriting folder)
