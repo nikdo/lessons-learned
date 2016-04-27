@@ -13,3 +13,7 @@
 **A minimum spacing** between elements of 2mm/8px.
 
 **The visual size** of a UI control to be 60-100% of the touch target size.
+
+## Scrolling vs. Clicking
+
+![](Scrolling vs. Clicking.png)
