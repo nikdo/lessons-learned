@@ -55,6 +55,7 @@
 
 ## Copywriting
 - e-book *Piště jako copywriter* by Ottocopy (Education/Copywriting folder)
+- e-book *365 copy triků* (Education/Copywriting folder)
 
 ## Misc
 - [free courses](http://www.seduo.cz) suggested by Pavel Ovesný (Punkové podnikání)
