@@ -32,6 +32,7 @@
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## CSS & HTML
+- [Static website generators](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/) (Jekyll, etc.)
 - [AirBnb CSS Style Guide](https://github.com/airbnb/css)
 - [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 - - [Content & Display Patterns](http://danielmall.com/articles/content-display-patterns/) (via J. Zeldman)
