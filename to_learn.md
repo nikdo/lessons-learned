@@ -37,6 +37,7 @@
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) (via J. Zeldman)
 - [Mastering CSS Priciples by Smashing Magazine](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 - try [FlexBox Froggy](http://flexboxfroggy.com)
+- Open Graph for Facebook / Twitter preview
 
 
 ## Rapid Prototyping
