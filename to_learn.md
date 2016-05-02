@@ -31,6 +31,7 @@
 - [Write Redux tests](http://redux.js.org/docs/recipes/WritingTests.html)
 - [Redux videos](https://egghead.io/series/getting-started-with-redux) by Dan Abramov
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- Redux extensions: diff monitor, slider monitor
 
 ## CSS & HTML
 - [Static website generators](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/) (Jekyll, etc.)
