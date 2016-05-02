@@ -57,6 +57,10 @@
 - Hack Design lessons (email newsletter)
 - [Drawing vector characters](http://www.huffingtonpost.com/entry/husbands-illustrations-for-wife-capture-love-at-its-simplest_us_56d74b29e4b0871f60eda9a1?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
 - [Material Design](https://www.google.com/design/spec/material-design/introduction.html#)
+- Center Alignment:
+  - [How to Use Centered Alignments: Tips and Examples](https://designshack.net/articles/layouts/how-to-use-centered-alignments-tips-and-examples/)
+  - [Why You Should Never Center Align Paragraph Text](http://uxmovement.com/content/why-you-should-never-center-align-paragraph-text/)
+  - [An Ode to Centered Text](http://practicaltypography.com/centered-text.html) (+ other articles on this website)
 
 ## Copywriting
 - e-book *Piště jako copywriter* by Ottocopy (Education/Copywriting folder)
