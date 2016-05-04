@@ -31,8 +31,15 @@ Set up **maximal and minimal content width** to avoid design breakdown for super
 [Remove the forward slash](http://learn.shayhowe.com/html-css/writing-your-best-code/) at the end of self-closing elements
 
 ## Fonts
-- If you haven't set the font size anywhere on the page, then it is the browser default, which is probably **16px**. ([mdn](https://developer.mozilla.org/en/docs/Web/CSS/font-size#Ems))
+If you haven't set the font size anywhere on the page, then it is the browser default, which is probably **16px**. ([mdn](https://developer.mozilla.org/en/docs/Web/CSS/font-size#Ems))
 
 ## Stylus
 
 Media queries [can be stored](http://1pixelout.net/2015/10/02/simple-breakpoint-media-queries-with-stylus/) in hash and there can be mixin to call them easily.
+
+## Bootstrap
+
+There are [tree options for customizing Bootstrap](https://www.smashingmagazine.com/2013/03/customizing-bootstrap/) from the most basic to the most sensitive:
+1. Override CSS
+2. Generate custom build
+3. Modularized LESS code
