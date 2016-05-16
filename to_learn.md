@@ -2,7 +2,6 @@
 
 ## Business
 - lean hyphotheses
-- 
 
 ## JavaScript
 - [command-line JavaScript Tutorials on Nodeschool](http://nodeschool.io/#workshoppers)
@@ -36,7 +35,7 @@
 - Redux extensions: diff monitor, slider monitor
 
 ## CSS & HTML
-- [Static website generators](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/) (Jekyll, etc.)
+- [Comparison of static website generators](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/)
 - [AirBnb CSS Style Guide](https://github.com/airbnb/css)
 - [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 - - [Content & Display Patterns](http://danielmall.com/articles/content-display-patterns/) (via J. Zeldman)
