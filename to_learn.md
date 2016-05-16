@@ -36,6 +36,7 @@
 
 ## CSS & HTML
 - [Comparison of static website generators](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/)
+- [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d#.bmhykq9gp)
 - [AirBnb CSS Style Guide](https://github.com/airbnb/css)
 - [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 - - [Content & Display Patterns](http://danielmall.com/articles/content-display-patterns/) (via J. Zeldman)
@@ -62,6 +63,13 @@
   - [How to Use Centered Alignments: Tips and Examples](https://designshack.net/articles/layouts/how-to-use-centered-alignments-tips-and-examples/)
   - [Why You Should Never Center Align Paragraph Text](http://uxmovement.com/content/why-you-should-never-center-align-paragraph-text/)
   - [An Ode to Centered Text](http://practicaltypography.com/centered-text.html) (+ other articles on this website)
+
+## Illustration
+- copy [Game of Thrones pixel characters](http://www.charlieart.pl)
+- pixelart tutorials
+  - [A Basic Sprite Tutorial](http://2dwillneverdie.com/tutorial/a-basic-sprite-tutorial/)
+  - [Les Forges Pixel Art Course](http://opengameart.org/content/les-forges-pixel-art-course)
+  - [Pixelart Tutorials](http://gas13.ru/v3/tutorials/)
 
 ## Copywriting
 - e-book *Piště jako copywriter* by Ottocopy (Education/Copywriting folder)
