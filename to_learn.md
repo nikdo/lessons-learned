@@ -37,6 +37,7 @@
 
 ## CSS & HTML
 - [React Material UI](https://github.com/callemall/material-ui)
+- Find more hardcore variant to bootstrap (stylus mixins?)
 - [Comparison of static website generators](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/)
 - [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d#.bmhykq9gp)
 - [AirBnb CSS Style Guide](https://github.com/airbnb/css)
