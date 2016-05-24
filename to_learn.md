@@ -36,6 +36,7 @@
 - Redux extensions: diff monitor, slider monitor
 
 ## CSS & HTML
+- [Google Material Design Principles](https://github.com/google/material-design-lite)
 - [React Material UI](https://github.com/callemall/material-ui)
 - Find more hardcore variant to bootstrap (stylus mixins?)
 - [Comparison of static website generators](https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/)
