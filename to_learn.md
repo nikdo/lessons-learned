@@ -8,6 +8,8 @@
 - [presentation about ES6, Typescript and CoffeeScript](http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6)
 - [difference between == and ===](http://stackoverflow.com/questions/359494/does-it-matter-which-equals-operator-vs-i-use-in-javascript-comparisons)
 - ESLint
+- Autoprefixer (Material-UI uses it and it sounds like a big deal)
+  - when do I need it and when it is solved by other libraries?
 - ES6 basics from [GitHub tutorial](https://github.com/lukehoban/es6features#readme)
 	- import end exports
 	- promises
