@@ -3,6 +3,9 @@
 ## Business
 - lean hyphotheses
 
+## UX
+- [Good UI patterns](http://www.goodui.org)
+
 ## JavaScript
 - [command-line JavaScript Tutorials on Nodeschool](http://nodeschool.io/#workshoppers)
 - [presentation about ES6, Typescript and CoffeeScript](http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6)
