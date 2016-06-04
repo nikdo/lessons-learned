@@ -42,6 +42,7 @@
 - Redux extensions: diff monitor, slider monitor
 
 ## CSS & HTML
+- [Chrome DevTools - 25 Tips and Tricks](https://www.keycdn.com/blog/chrome-devtools/)
 - [Atomic CSS Modules](https://medium.com/yplan-eng/atomic-css-modules-cb44d5993b27#.5zzjjr70r) - suggested by 6A
 - [React in CSS presentation](https://speakerdeck.com/vjeux/react-css-in-js)
 - [Google Material Design Principles](https://github.com/google/material-design-lite)
