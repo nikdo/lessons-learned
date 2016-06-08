@@ -64,6 +64,7 @@
 - [Bootstrap](http://getbootstrap.com/2.3.2/)
 - [Fake It. Trash It. Build It.](https://42floors.com/blog/technology/fake-it-trash-it-build-it)
 - [Using Font Awsome](https://fortawesome.github.io)
+- [Self code review using git](https://twitter.com/tgvashworth/status/740312915094441984)
 
 ## Backend
 - [Apiary](https://apiary.io) - praised by Borek and Mirumee
