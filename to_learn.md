@@ -67,7 +67,6 @@
 ## Backend
 - [Apiary](https://apiary.io) - praised by Borek and Mirumee
 - 
- 
 
 ## Design
 - [Affinity Designer Getting Started](https://vimeo.com/153080756)
