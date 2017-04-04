@@ -24,6 +24,25 @@ Set up **maximal and minimal content width** to avoid design breakdown for super
 
 [Shrink lines and move items up](https://www.youtube.com/watch?v=sOuLv-PRbt4) for wide but short devices like landscape tablet.
 
+## URL Types
+
+- absolute: `https://domain.tld:80/dir/file.ext`
+- relative: `file.ext`; `./file.ext`; `../dir/file.ext`
+- root-relative: `/dir/file.ext`
+
+Browser interprets relative and root-relative URLs. It uses current page URL to translate it to absolute URL.
+
+If `base` tag is defined, browser uses it to interpret relative and root-relative URLs instead of current page URL. This unfortunately [applies too on anchors and query strings](http://stackoverflow.com/a/1889957/5763764).
+
+[Correct URI naming according to RFC](http://stackoverflow.com/a/17407082/5763764):
+- absolute URI
+- relative URI with relative path
+- relative URI with absolute path
+
+Sometimes different incorrect and confusing naming is used:
+- absolute = fully-qualified
+- root-relative = absolute
+
 ## CSS Best Practices
 
 **Object Oriented CSS** is good for large websites. Websites where large pack of developers with different skill-level are working on it. It's not wise to use it for small to medium projects. [It's OK to use IDs and descendant selectors instead.](http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/)
