@@ -38,15 +38,15 @@ This describes steps necessary to set up API infrastructure on a Linux server, n
   1. [Create user.](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-16-04)
   2. [Setup SSH key authentication.](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804)
 3. Install PM2 for managing production node apps.
-4. Configure pm2 to start for non-sudo user on startup.
+4. Configure PM2 to start for created non-sudo user on startup.
 5. Configure Nginx as a reverse proxy for node app on localhost.
 
 # 5. Set up git deployment
 
 [How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
 
-1. Init bare repo in `/var/repo/<appname>.git`.
+1. Init bare repository in `/var/repo/<appname>.git`.
 2. Create dir for node app distribution files (deployment dir) in `/opt/<appname>`.
 4. Change user of both directories to non-sudo user running pm2 service.
-5. [Create `post-receive` hook.](https://gist.github.com/nikdo/bbed8087f13d9c0f16888d1ba95bbb96)
+5. [Set up `post-receive` hook](https://gist.github.com/nikdo/bbed8087f13d9c0f16888d1ba95bbb96) in the bare repository.
 6. Set `NODE_ENV` environment variable to `production` and other variables necessary for the app in `var/repo/<appname>.git/hooks/.env` file.
