@@ -38,8 +38,11 @@ This describes steps necessary to set up API infrastructure on a Linux server, n
 3. Configure Nginx as a reverse proxy for node app on localhost.
 
 # 5. Set up git deployment
-	- init bare repo in `/var/repo/<appname>.git`
-	- create dir for node app distribution files (deployment dir) in `/opt/<appname>.`
-	- change user of both directories to non-sudo user
-	- create `post-receive` hook that force checkouts pushed branch, installs dependencies and restarts pm2 app (see attached file)
-	- set `NODE_ENV` environment variable to `production` and other variables necessary for the app in `var/repo/<appname>.git/hooks/.env` file
+
+[How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
+
+1. Init bare repo in `/var/repo/<appname>.git`.
+2. Create dir for node app distribution files (deployment dir) in `/opt/<appname>`.
+3. Change user of both directories to non-sudo user.
+4. [Create `post-receive` hook.](https://gist.github.com/nikdo/bbed8087f13d9c0f16888d1ba95bbb96)
+5. Set `NODE_ENV` environment variable to `production` and other variables necessary for the app in `var/repo/<appname>.git/hooks/.env` file.
