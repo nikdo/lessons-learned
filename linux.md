@@ -3,7 +3,7 @@
 Linux cheat sheet.
 
 
-### Uncomplicated Firewall
+## Uncomplicated Firewall
 
 ```
 ufw status               # firewall rules
@@ -12,7 +12,7 @@ ufw allow <app-or-port>  # allow app or port
 ```
 
 
-### Systemd
+## Systemd
 
 ```
 systemctl status <service>   # check service status
@@ -43,10 +43,9 @@ pm2 log <app>        # tails app log
 systemctl status pm2-<username>  # show systemd process
 ```
 
-### Ubuntu packages
+## Ubuntu packages
 
 ```
 apt update                  # update packages
 apt install <package-name>  # install package
 ```
-
