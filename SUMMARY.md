@@ -12,6 +12,7 @@
 * [Infrastructure](infrastructure.md)
   * [webpack](webpack.md)
   * [Testing](testing.md)
+  * [Linux](linux.md)
 * [Misc](misc.md)
 * [To Learn](to_learn.md)
 
