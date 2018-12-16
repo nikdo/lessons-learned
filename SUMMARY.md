@@ -12,7 +12,8 @@
 * [Infrastructure](infrastructure.md)
   * [webpack](webpack.md)
   * [Testing](testing.md)
-  * [Linux](linux.md)
+  * [Linux Cheat Sheet](linux.md)
+  * [Linux API Infrastructure](linux-api-infrastructure.md)
 * [Misc](misc.md)
 * [To Learn](to_learn.md)
 

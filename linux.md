@@ -1,6 +1,4 @@
-# Linux
-
-Linux cheat sheet.
+# Linux Cheat Sheet
 
 
 ## Uncomplicated Firewall
