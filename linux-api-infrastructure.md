@@ -47,9 +47,9 @@ This describes steps necessary to set up API infrastructure on a Linux server, n
 
 1. Init bare repository in `/var/repo/<appname>.git`.
 2. Create dir for node app distribution files (deployment dir) in `/opt/<appname>`.
-4. Change user of both directories to non-sudo user running pm2 service.
+3. _(optional)_ Create app cache directory in `var/cache/<appname>`.
+4. Change user of all three directories to non-sudo user running pm2 service.
 5. [Set up `post-receive` hook](https://gist.github.com/nikdo/bbed8087f13d9c0f16888d1ba95bbb96) in the bare repository.
 6. Set environment variables using `var/repo/<appname>.git/hooks/.env` file.
   - Set `NODE_ENV` to `production`.
-  - When there is configurable cache location, use `var/cache/<appname>`.
   - Set other variables necessary for the app.
