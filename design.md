@@ -22,3 +22,14 @@
 **Modular scales** are a tool, they’re not magic. They’re not going to work for every measurement, and that’s okay. Math is no substitute for an experienced designer’s eye, but it can provide both hints and constraints for decision making. Consider the scale’s numbers educated suggestions. ([A List Apart: More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography))
 
 [4 Simple Steps to Vertical Rhythm](http://typecast.com/blog/4-simple-steps-to-vertical-rhythm)
+
+## Raster to Vector Conversion
+
+1. [Convert PNG to SVG](https://stackoverflow.com/a/12608376/5763764):
+
+	```sh
+	convert -flatten windguru.png windguru.ppm
+	potrace -s windguru.ppm -o windguru.svg
+	```
+
+2. Color SVG in Affinity Designer, pick colors from the original PNG.
