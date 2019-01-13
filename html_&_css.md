@@ -24,6 +24,20 @@ Set up **maximal and minimal content width** to avoid design breakdown for super
 
 [Shrink lines and move items up](https://www.youtube.com/watch?v=sOuLv-PRbt4) for wide but short devices like landscape tablet.
 
+## SVG in HTML
+
+Options:
+
+1. `<img src="foo.svg" height="16" />`
+	- 👍 alt attribute, simple
+	- 👎 CSS styling, JS manipulation
+2. `<svg width="16" height="16" ...`
+	- 👍 CSS styling, JS manipulation
+	- 👎 no separate caching, no alt attribute
+3. `.foo { background-image: url('foo.svg'); }`
+4. Icon font.
+
+
 ## URL Types
 
 - absolute: `https://domain.tld:80/dir/file.ext`

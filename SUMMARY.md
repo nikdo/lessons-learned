@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [HTML & CSS](html_&_css.md)
-  * [SVG in HTML](html_&_css/svg-in-html.md)
 * [JavaScript](javascript.md)
 * [React](react.md)
   * [React-router](react-router.md)
