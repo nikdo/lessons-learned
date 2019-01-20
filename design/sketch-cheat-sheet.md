@@ -1,4 +1,4 @@
-# Cheat Sheet
+# Sketch Cheat Sheet
 
 ## Moving Around
 
