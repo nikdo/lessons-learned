@@ -6,10 +6,9 @@
 * ⌘ + 2 = zoom to fit selection
 * ⌘ + 3 = center selection
 
-* Space + drag = drag the canvas \(!\)
+* Space + drag = drag the canvas
 
 * ⌃ + R = rules
-
 * ⌃ + G = grid
 * ⌃ + P = pixels
 
