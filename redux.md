@@ -32,6 +32,10 @@ See [Redux Basics tutorial](http://rackt.org/redux/docs/basics/index.html) to di
 
 Redux and Relay are [exclusive](https://github.com/rackt/redux/issues/1036).
 
+## Application State
+
+It is useful to differentiate between different types of client application state and handle these states differently: [The 5 Types Of React Application State](http://jamesknelson.com/5-types-react-application-state/)
+
 
 ## Redux-simple-router
 

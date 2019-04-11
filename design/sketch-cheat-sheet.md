@@ -158,6 +158,8 @@ Use slices instead of exporting layers:
 
 Organize exported assets into folders by using / in the name of exported layer or slice.
 
+When designing for web [use sRGB profile in Sketch](https://sketchapp.com/docs/other/color-management/#srgb-color-profile).
+
 ## Design Observations
 
 Subtle is good.

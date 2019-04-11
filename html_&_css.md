@@ -57,6 +57,31 @@ Sometimes different incorrect and confusing naming is used:
 - absolute = fully-qualified
 - root-relative = absolute
 
+## Breakpoints
+
+Do not use device-sepecifice breakpoints: [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862)
+
+[Material Design Breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
+
+## Viewport Whitespace
+
+How to set content to viewport whitespace?
+
+Research results:
+
+They never set margin or padding to body. It is always sections that have margins or paddings. They never use negative section margin to make it full width on body with padding.
+
+Pages end with footer most of the time, so there is no need for bottom page padding. Bottom padding is achieved by section bottom padding or last element bottom margin.
+
+## Color Names
+
+Use color names to be able to reason about them.
+
+- [Giving Colors More Colorful Names](https://www.viget.com/articles/naming-colors/)
+- [Naming Colors](https://thoughtbot.com/blog/naming-colors)
+
+
+
 ## CSS Best Practices
 
 **Object Oriented CSS** is good for large websites. Websites where large pack of developers with different skill-level are working on it. It's not wise to use it for small to medium projects. [It's OK to use IDs and descendant selectors instead.](http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/)
@@ -65,6 +90,11 @@ Sometimes different incorrect and confusing naming is used:
 
 ## Fonts
 If you haven't set the font size anywhere on the page, then it is the browser default, which is probably **16px**. ([mdn](https://developer.mozilla.org/en/docs/Web/CSS/font-size#Ems))
+
+### Font Smoothing
+
+There is a [difference](https://www.joelonsoftware.com/2007/06/12/font-smoothing-anti-aliasing-and-sub-pixel-rendering/) how fonts are smoothed on Mac and Windows. Google Fonts and Font Squirrel use both `-webkit-font-smoothing: antialiased;`, Sketch seems to do the same. To match designs with output, this setting has to be used.
+
 
 ## Stylus
 

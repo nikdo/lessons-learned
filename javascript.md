@@ -9,3 +9,7 @@ Naming changes of ES standard: Harmony → ES6 → ES2015
 [**Higher order function**](http://www.sitepoint.com/higher-order-functions-javascript/) is a function that can take another function as an argument, or that returns a function as a result.
 
 Grunt, Gulp, Browserify and Webpack were created as developers recognized the benefits of using Node for **tooling and dependency management**.
+
+## localeCompare
+
+Use [localeCompare](https://stackoverflow.com/a/26295229/5763764) and specify locale to compare ascents according to language preferences.
