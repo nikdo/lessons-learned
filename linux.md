@@ -50,7 +50,7 @@ apt update                  # update packages
 apt install <package-name>  # install package
 ```
 
-Updating:
+[Updating:](https://askubuntu.com/a/621709)
 
 ```
 sudo apt-get update
