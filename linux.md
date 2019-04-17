@@ -43,7 +43,18 @@ systemctl status pm2-<username>  # show systemd process
 
 ## Ubuntu packages
 
+Installing:
+
 ```
 apt update                  # update packages
 apt install <package-name>  # install package
+```
+
+Updating:
+
+```
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+sudo shutdown -r 0          # if reboot necessary
 ```
