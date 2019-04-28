@@ -12,6 +12,7 @@
 * [Google Maps](google_maps.md)
 * [Infrastructure](infrastructure.md)
   * [webpack](webpack.md)
+  * [yarn](yarn.md)
   * [Testing](testing.md)
   * [Linux Cheat Sheet](linux.md)
   * [Linux API Infrastructure](linux-api-infrastructure.md)
