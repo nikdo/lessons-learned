@@ -9,4 +9,9 @@ use admin
 db.grantRolesToUser('admin', ['restore'])
 ```
 
-Database has to be empty before restoring.
+## Get Users
+
+```
+use <db-name>   // use 'admin' for DB administrators
+db.getUsers()
+```
