@@ -11,6 +11,7 @@ Use dig command to query DNS from command line.
 ```
 dig www.windfreaks.net
 dig windfreaks.net TXT
+dig windfreaks.net any
 ```
 
 ## Naked domain
