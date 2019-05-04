@@ -6,6 +6,13 @@
 
 CNAME is preferred over A because hosting providers can scale it up using multiple servers on multiple IDs to serve requests. Most hosting providers do not offer fixed IP in a basic plan and it can be quite expensive.
 
+Use dig command to query DNS from command line.
+
+```
+dig www.windfreaks.net
+dig windfreaks.net TXT
+```
+
 ## Naked domain
 
 Naked domain cannot be pointed to CNAME. Some DNS providers have their DNS servers modified to allow that by faking A record. By setting an ALIAS or ANAME on naked domain, they inspect to what IP address(es) it resolves and serve them back as A record.
