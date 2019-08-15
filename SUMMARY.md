@@ -18,6 +18,7 @@
   * [Linux API Infrastructure](linux-api-infrastructure.md)
   * [MongoDB](mongodb.md)
   * [DNS](dns.md)
-* [Misc](misc.md)
+* [Regular expressions](regular-expressions.md)
 * [To Learn](to_learn.md)
+* [Misc](misc.md)
 
