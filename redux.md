@@ -36,6 +36,31 @@ Redux and Relay are [exclusive](https://github.com/rackt/redux/issues/1036).
 
 It is useful to differentiate between different types of client application state and handle these states differently: [The 5 Types Of React Application State](http://jamesknelson.com/5-types-react-application-state/)
 
+## WebSockets and Redux
+
+WebSocket connection [belongs to the middleware](https://redux.js.org/faq/code-structure#where-should-websockets-and-other-persistent-connections-live) in Redux.
+
+An example of WebSocket middleware: [Write your own WebSocket middleware](https://dev.to/aduranil/how-to-use-websockets-with-redux-a-step-by-step-guide-to-writing-understanding-connecting-socket-middleware-to-your-project-km3)
+
+Middleware can be used to solve many different architectural problems: [You Aren’t Using Redux Middleware Enough](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6)
+
+## Loading flags
+
+Loading and error state should be stored in *Operations* part of the store as described [The 5 Types Of React Application State](http://jamesknelson.com/5-types-react-application-state/) article.
+
+An interesting concept how to handle error / loading states for all endpoints is to parse action type constant: [Better Way to Handle Loading Flags in Your Reducers](https://medium.com/stashaway-engineering/react-redux-tips-better-way-to-handle-loading-flags-in-your-reducers-afda42a804c6)
+
+## Component state vs Redux state
+
+Dan Abramov [answers question](https://github.com/reduxjs/redux/issues/1287#issuecomment-175351978) How to choose between Redux's store and React's state:
+
+> Use React for ephemeral state that doesn't matter to the app globally and doesn't mutate in complex ways. For example, a toggle in some UI element, a form input state. Use Redux for state that matters globally or is mutated in complex ways. For example, cached users, or a post draft.
+
+> Sometimes you'll want to move from Redux state to React state (when storing something in Redux gets awkward) or the other way around (when more components need to have access to some state that used to be local).
+
+> The rule of thumb is: do whatever is less awkward.
+
+
 
 ## Redux-simple-router
 
