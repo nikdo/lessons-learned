@@ -9,6 +9,7 @@
   * [React-router](react-router.md)
   * [Redux](redux.md)
   * [Material-UI](material-ui.md)
+  * [Testing](testing.md)
 * [Google Maps](google_maps.md)
 * [Infrastructure](infrastructure.md)
   * [webpack](webpack.md)
