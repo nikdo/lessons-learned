@@ -61,6 +61,14 @@ Dan Abramov [answers question](https://github.com/reduxjs/redux/issues/1287#issu
 > The rule of thumb is: do whatever is less awkward.
 
 
+## Combining API requests
+
+Combining multiple API requests into single atomic Redux action to abstract from API complexities does not play well with [API middleware abstraction](https://github.com/reduxjs/redux/blob/master/examples/real-world/src/middleware/api.js). More advanced tool like redux-saga or redux-observable might be a better fit.
+
+
+## Immutable.js
+
+Immutable.js [has drawbacks](https://github.com/reduxjs/redux/blob/885a2db6ef8721bb8facd1a6df2fcff979237ee4/docs/recipes/UsingImmutableJS.md#what-are-the-issues-with-using-immutablejs) that do not outweigh benefits. With careful coding I can prevent mutations without using this library. The benefit of [`getIn`](https://immutable-js.github.io/immutable-js/docs/#/getIn) handling incomplete nested structures is also not worth it.
 
 ## Redux-simple-router
 
