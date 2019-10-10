@@ -10,6 +10,7 @@
   * [Redux](redux.md)
   * [Material-UI](material-ui.md)
   * [Testing](testing.md)
+* [OAuth 2.0](oauth-20.md)
 * [Google Maps](google_maps.md)
 * [Infrastructure](infrastructure.md)
   * [webpack](webpack.md)
@@ -21,5 +22,5 @@
   * [DNS](dns.md)
 * [Regular expressions](regular-expressions.md)
 * [To Learn](to_learn.md)
-* [Misc](misc.md)
+* OAuth 2.0
 
