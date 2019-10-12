@@ -30,3 +30,8 @@ Dumb components can be rendered on a single page with styles to run screen shot 
 This will also extract layout components like *Page*, *Sidebar*.
 
 See [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.d83x3rplr) by Dan Abramov for more details.
+
+
+## Optimistic updates
+
+Dan Abramov suggested using redux-optimist in 2016. But the package is no longer maintained and it does not seem to solve failures properly: Store rollback means loosing data, but we want to provide the ability to retry instead.

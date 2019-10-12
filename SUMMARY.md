@@ -20,7 +20,4 @@
   * [Linux API Infrastructure](linux-api-infrastructure.md)
   * [MongoDB](mongodb.md)
   * [DNS](dns.md)
-* [Regular expressions](regular-expressions.md)
-* [To Learn](to_learn.md)
-* OAuth 2.0
 
