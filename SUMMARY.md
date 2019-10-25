@@ -10,6 +10,7 @@
   * [Redux](redux.md)
   * [Material-UI](material-ui.md)
   * [Testing](testing.md)
+* [Git](git.md)
 * [OAuth 2.0](oauth-20.md)
 * [Google Maps](google_maps.md)
 * [Infrastructure](infrastructure.md)
@@ -22,6 +23,4 @@
   * [DNS](dns.md)
 * [Architecture](architecture.md)
 * [Tools](tools.md)
-* [Java](java.md)
-* [Git](git.md)
 
