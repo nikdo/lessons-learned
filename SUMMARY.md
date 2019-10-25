@@ -23,4 +23,5 @@
 * [Architecture](architecture.md)
 * [Tools](tools.md)
 * [Java](java.md)
+* [Git](git.md)
 
