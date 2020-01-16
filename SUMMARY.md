@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Design](design.md)
   * [Sketch Cheat Sheet](design/sketch-cheat-sheet.md)
+  * [Colors](design/colors.md)
 * [HTML & CSS](html_&_css.md)
 * [JavaScript](javascript.md)
 * [React](react.md)
