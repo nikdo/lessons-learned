@@ -11,6 +11,7 @@
   * [Redux](redux.md)
   * [Material-UI](material-ui.md)
   * [Testing](testing.md)
+  * [Configuration](configuration.md)
 * [Git](git.md)
 * [OAuth 2.0](oauth-20.md)
 * [Google Maps](google_maps.md)
