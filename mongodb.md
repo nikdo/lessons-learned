@@ -15,3 +15,13 @@ db.grantRolesToUser('admin', ['restore'])
 use <db-name>   // use 'admin' for DB administrators
 db.getUsers()
 ```
+
+
+## Sort documents by field length
+
+```
+db.spots.aggregate([
+  { $addFields: { length: { $strLenCP: '$fieldName' } } },
+  { $sort: { fieldName: -1 }}
+])
+```
