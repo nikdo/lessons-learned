@@ -54,6 +54,7 @@ apt install <package-name>  # install package
 
 ```
 sudo apt-get update
+apt list --upgradeable
 sudo apt-get upgrade
 sudo apt-get dist-upgrade
 sudo shutdown -r 0          # if reboot necessary

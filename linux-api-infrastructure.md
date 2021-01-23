@@ -24,12 +24,12 @@ This describes steps necessary to set up API infrastructure on a Linux server, n
 
 [How To Install Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
 
-1. Install Ngingx.
+1. Install Nginx.
 2. Set up server block for the API subdomain.
 3. [Enable CORS](https://enable-cors.org/server_nginx.html) for API consumers.
 4. [Enable HTTPS, redirect from HTTP.](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
 
-# 5. Install Node.js
+## 5. Install Node.js
 
 [How To Set Up a Node.js Application for Production on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-18-04)
 
@@ -41,7 +41,7 @@ This describes steps necessary to set up API infrastructure on a Linux server, n
 4. Configure PM2 to start for created non-sudo user on startup.
 5. Configure Nginx as a reverse proxy for node app on localhost.
 
-# 6. Set up git deployment
+## 6. Set up git deployment
 
 [How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
 
@@ -53,3 +53,6 @@ This describes steps necessary to set up API infrastructure on a Linux server, n
 6. Set environment variables using `var/repo/<appname>.git/hooks/.env` file.
   - Set `NODE_ENV` to `production`.
   - Set other variables necessary for the app.
+7. Add remote to the local machine git repository: `git remote add production ssh://<user>@<server>/var/repo/<appname>.git`
+
+To deploy React app use the same steps, but use [slightly different `post-receive` hook](https://gist.github.com/nikdo/8a50ac28e3188db9dbfcb559536fd682) and skip setting `.env` file.

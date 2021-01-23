@@ -1,5 +1,12 @@
 # Command Line
 
+## `open`
+
+```
+open README.md     # open a file
+open -a simulator  # open an app
+```
+
 ## `lsof`
 
 ```
@@ -12,7 +19,8 @@ lsof -i  # list of open ports
 General structure: `find dir-name criteria action`
 
 ```
-find /tmp -name "*.txt".          # find by name
+find /tmp -name "*.txt"           # find by name
+find /tmp -iname "*.txt"          # case insensitive
 find . -type f                    # find files only
 find . -type f -exec rm -i {} \;  # remove found with prompt
 ```
@@ -40,4 +48,10 @@ brew info <formula>
 brew install <formula>
 brew uninstall <formula>
 brew cleanup -s           # clean whole cache to save spce
+```
+
+## Misc
+
+```
+ifconfig | grep inet   # get my IP address
 ```
