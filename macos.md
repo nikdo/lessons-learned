@@ -2,6 +2,8 @@
 
 `⌘⌃F` toggle fullscreen
 `⇧⌘→` `⇧⌘←` switch between tabs
+`⇧⌘.` show hidden files in Finder
+`⎇ ` insert non-breaking space
 
 ## Screen capture
 

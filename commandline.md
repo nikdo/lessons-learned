@@ -10,7 +10,7 @@ open -a simulator  # open an app
 ## `lsof`
 
 ```
-lsof.    # list of open files
+lsof     # list of open files
 lsof -i  # list of open ports
 ```
 
@@ -31,12 +31,17 @@ Find CRLF characters in current directory:
 find . -not -type d -exec file "{}" ";" | grep CRLF
 ```
 
+## `grep`
+
+```
+grep -ri "text" .  # find text recursively & case-insensitively
+```
+
 ## `rm`
 
 ```
 rm -i  # remove files with prompt 
 ```
-
 
 ## HomeBrew
 
@@ -53,5 +58,7 @@ brew cleanup -s           # clean whole cache to save spce
 ## Misc
 
 ```
-ifconfig | grep inet   # get my IP address
+ifconfig | grep inet     # get my IP address
+(cd ios; pod install)    # execute in subshell
+time cp something_big .  # measure time of execution
 ```

@@ -42,11 +42,12 @@ adb devices           # list all connected devices
 adb install foo.apk   # install apk
 ```
 
-## iOS simulator
+## iOS simulator or device
 
 ```
 xcrun simctl list devices              # list available devices
-npm run ios -- --simulator "iPhone 11 Pro" # pick device
+react-native run-ios --simulator "iPhone 11 Pro"  # pick device
+react-native run-ios --device          # run on physical device 
 ```
 
 ## Styling
