@@ -49,6 +49,7 @@ rm -i  # remove files with prompt
 brew update
 brew outdated
 brew upgrade
+brew search <term>
 brew info <formula>
 brew install <formula>
 brew uninstall <formula>
