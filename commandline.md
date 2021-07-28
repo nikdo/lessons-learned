@@ -43,6 +43,12 @@ grep -ri "text" .  # find text recursively & case-insensitively
 rm -i  # remove files with prompt 
 ```
 
+## `du`
+
+```
+du -sh * | sort -h  # sort contents by human-readable file size
+```
+
 ## HomeBrew
 
 ```
